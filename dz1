@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html lang="ru"
+<HEAD>
+    <meta charset="UTF-8">
+    <TITLE>Hello to everyone!</TITLE>
+    <link rel="stylesheet" type="text/css" href="dz1.css">
+<BODY>
+
+<div class="wraper">
+
+  <div class="header">
+  <h1> Мазаев Александр Александрович</h1>
+    <img src="angry_hamster.jpg" height="140" width="120" alt="Just me on Mondays" title="Me on Mondays")>
+    <p class="intro">Работаю в страховой компании, но в душе фанат IT) </p>
+  </div>
+
+  <div class="learning">
+  <h2>Хочу учить фронтенд, потому что: </h2>
+  <ul>
+    <li>давно увлекаюсь IT и хочу работать в этой сфере</li>
+    <li>есть куча идей и планов, хочу научится их реализации </li>
+    <li>потому что это работа ХХI-века... и зарплата тоже:)</li>
+  </div>
+
+  <div class="contact">
+    <h2>Мой контактный телефон:</h2>
+    <p> (093) 128-34-44
+    <h2>Мой профиль Вконтакте:</h2>
+    <a href="https://vk.com/id30135142" target="blank" title="my VK profile">vk.com</a>
+  </div>
+
+  <div class="bottom">
+    <h2>Мой фидбек:</h2>
+    </div>
+  <p>вышиваю крестиком</p>
+  </div>
+
+</div>
+
+</BODY>
+</HTML>
