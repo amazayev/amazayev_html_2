@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="ru"
+<html lang="ru">
 <HEAD>
     <meta charset="UTF-8">
     <TITLE>Hello to everyone!</TITLE>
@@ -10,7 +10,7 @@
 
   <div class="header">
   <h1> Мазаев Александр Александрович</h1>
-    <img src="angry_hamster.jpg" height="140" width="120" alt="Just me on Mondays" title="Me on Mondays")>
+    <img src="angry_hamster.jpg" height="140" width="120" alt="Just me on Mondays" title="Me on Mondays">
     <p class="intro">Работаю в страховой компании, но в душе фанат IT) </p>
   </div>
 
@@ -20,6 +20,7 @@
     <li>давно увлекаюсь IT и хочу работать в этой сфере</li>
     <li>есть куча идей и планов, хочу научится их реализации </li>
     <li>потому что это работа ХХI-века</li>
+  </ul>
   </div>
 
   <div class="contact">
